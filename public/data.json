@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "cup": 0,
+        "name": "Bangladesh",
+        "win": "BGDw",
+        "lost": "BGDl",
+        "dro": "BGDd",
+        "color": {
+            "text_color": "#3c9a24",
+            "text_color2": "rgba(60, 154, 36, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.xjBFof6yM5vTvA5YiB6ghwHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 2,
+        "cup": 1,
+        "name": "Pakistan",
+        "win": "PAKw",
+        "lost": "PAKl",
+        "dro": "PAKd",
+        "color": {
+            "text_color": "#000080",
+            "text_color2": "rgba(0, 0, 128, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.CCr7XOv96ZZ6G3drBKUcEQHaEo?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 3,
+        "cup": 2,
+        "name": "India",
+        "win": "INDw",
+        "lost": "INDl",
+        "dro": "INDd",
+        "color": {
+            "text_color": "#ff3d3d",
+            "text_color2": "rgba(255, 61, 61, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.BlwsCMpsegO-H06IaJgG0gHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 4,
+        "cup": 1,
+        "name": "Sri Lanka",
+        "win": "SLw",
+        "lost": "SLl",
+        "dro": "SLd",
+        "color": {
+            "text_color": "#ab5b2a",
+            "text_color2": "rgba(171, 91, 42, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/R.48ce28ee2f76f74a20e3719b04c3e9f8?rik=1B%2fGDBsAxcJLeQ&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 5,
+        "cup": 0,
+        "name": "Afghanistan",
+        "win": "AFGw",
+        "lost": "AFGl",
+        "dro": "AFGd",
+        "color": {
+            "text_color": "#5c7b44",
+            "text_color2": "rgba(92, 123, 68, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.zSnrH8V0Klkoh-ITTy60MwHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 6,
+        "cup": 0,
+        "name": "South Africa",
+        "win": "SAw",
+        "lost": "SAl",
+        "dro": "SAd",
+        "color": {
+            "text_color": "#3c1010",
+            "text_color2": "rgba(60, 16, 16, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.ZHRnBMS_Ce_t2XELz3sO6wHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 7,
+        "cup": 1,
+        "name": "England",
+        "win": "ENGw",
+        "lost": "ENGl",
+        "dro": "ENGd",
+        "color": {
+            "text_color": "#baa131",
+            "text_color2": "rgba(186, 161, 49, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.i-r4mwjjN6t3wEcNrG7MlQHaEc?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 8,
+        "cup": 5,
+        "name": "Australia",
+        "win": "AUSw",
+        "lost": "AUSl",
+        "dro": "AUSd",
+        "color": {
+            "text_color": "#8b008b",
+            "text_color2": "rgba(139, 0, 139, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/R.40a030564740268ce32870949024ede3?rik=%2b0EO8DAMy3WPXw&riu=http%3a%2f%2fwonderfulengineering.com%2fwp-content%2fuploads%2f2015%2f07%2fAustralia-Flag-2.jpg&ehk=1Jz7t3b3AJjmgDE51Ko1jtSoQFSw5NkOqYkq3k42Bdc%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "id": 9,
+        "cup": 0,
+        "name": "Netherlands",
+        "win": "NLDw",
+        "lost": "NLDl",
+        "dro": "NLDd",
+        "color": {
+            "text_color": "#800080",
+            "text_color2": "rgba(128, 0, 128, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.F_HJe80D3arYSDuNTXOrlgHaEK?pid=ImgDet&rs=1"
+    },
+    {
+        "id": 10,
+        "cup": 0,
+        "name": "New Zealand",
+        "win": "NZLw",
+        "lost": "NZLl",
+        "dro": "NZLd",
+        "color": {
+            "text_color": "#008080",
+            "text_color2": "rgba(0, 128, 128, 0.1)"
+        },
+        "img": "https://th.bing.com/th/id/OIP.PA4tVmkGFjQiahNOr4m9YQHaEK?pid=ImgDet&rs=1"
+    }
+]
